@@ -2311,6 +2311,7 @@ Cover
           box-shadow: 0 0 0 rgba(0, 0, 0, 0.08);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
+  height: 17rem
 }
 .icon_box_one i {
   margin-top: -10px;
@@ -2503,6 +2504,8 @@ Cover
   background-color: #f0f2f6;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
+  height: 28rem;
+
 }
 .price_box .price_highlight {
   background-color: #ff1899;
